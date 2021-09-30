@@ -1,0 +1,2 @@
+./empty_dir1/new_dir ./empty_dir2
+./empty_dir1/new_dir ./empty_dir2
